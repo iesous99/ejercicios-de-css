@@ -42,3 +42,12 @@ footer {
   text-align: center;
   padding-bottom: 5px;
 }
+
+a {
+  color: hsl(0, 0%, 0%);
+  text-decoration: none;
+}
+
+a:hover {
+  color: hsl(0, 0%, 100%);
+}
