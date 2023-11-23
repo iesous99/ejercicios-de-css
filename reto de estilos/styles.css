@@ -1,0 +1,56 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to bottom, #2980b9, #6dd5fa);
+  color: #333;
+}
+
+header {
+  background-image: url(./img/estadio\ de\ futbol\ feo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  width: 100%;
+  height: 40px;
+  text-align: center;
+  padding: 50px 0;
+  overflow: hidden;
+}
+
+main {
+  padding: 20px 20px;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+p {
+  font-size: 1.6rem;
+  margin: 0;
+  padding: 20px;
+}
+
+div {
+  background-color: hsl(230, 43%, 15%);
+  color: white;
+  text-align: center;
+}
+
